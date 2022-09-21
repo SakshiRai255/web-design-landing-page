@@ -6,6 +6,8 @@
   -  HTML
 -   CSS
 
+[Deployed-link](https://my-web-design-landing-pag.netlify.app/)
+
 ### Snapshots
 
 ![Image](images/Screenshot%20(443).png)
